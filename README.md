@@ -10,4 +10,4 @@ A simple code made in Node.js to blur backgrounds in Brawlhalla
   node index.js
 ```
     
-@heyo!
+@autobiografia!
